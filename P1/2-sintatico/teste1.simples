@@ -1,0 +1,10 @@
+programa teste
+/* Este eh um programa exemplo da linguagem simples */
+    inteiro a // declaracao da variavel a
+            b // declaracao da variavel b
+
+inicio
+    leia a
+    b <- a 10
+    escreva b
+fimprograma
